@@ -42,3 +42,7 @@ Fonctionne avec n'importe quelle API compatible OpenAI. Par défaut : [Ollama](h
 ```
 
 En mode interactif, tapez `history` pour voir la jurisprudence et `q` pour quitter.
+
+## Licence
+
+Distribué sous licence MIT. Voir [LICENSE](LICENSE).
