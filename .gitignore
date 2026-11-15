@@ -5,3 +5,6 @@ __pycache__/
 .env
 # Mémoire personnelle des délibérations
 mindspace_memory.json
+
+# Binaires Android (publiés via les releases GitHub)
+*.apk
