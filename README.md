@@ -8,6 +8,12 @@ Un outil en ligne de commande qui soumet vos dilemmes à un conseil de trois age
 
 JARVIS et ULTRON délibèrent en parallèle, puis VISION tranche. Chaque délibération est archivée dans une **mémoire persistante** (`mindspace_memory.json`), réinjectée comme « jurisprudence » dans les délibérations suivantes.
 
+## Application Android
+
+[📱 **Télécharger l'APK** (dernière version)](https://github.com/cedricboucard/mindspace/releases/latest/download/Mindspace-Council-of-Vision.apk)
+
+Ou consultez toutes les versions sur la [page des releases](https://github.com/cedricboucard/mindspace/releases). Sur Android, autorisez l'installation depuis des sources inconnues pour installer l'APK.
+
 ## Installation
 
 ```bash
