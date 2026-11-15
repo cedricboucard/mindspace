@@ -1,5 +1,7 @@
 # MINDSPACE CLI — Le Conseil Intérieur de Vision
 
+[![Version](https://img.shields.io/github/v/release/cedricboucard/mindspace?label=version)](https://github.com/cedricboucard/mindspace/releases/latest)
+
 Un outil en ligne de commande qui soumet vos dilemmes à un conseil de trois agents IA, 100 % en français :
 
 - 💎 **J.A.R.V.I.S.** — l'analyste logique, orienté efficacité et optimisation
